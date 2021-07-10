@@ -1,0 +1,7 @@
+C:\Users\tamer\Desktop\FacadeSingletonCombination\FacadeSingletonCombination\obj\Debug\FacadeSingletonCombination.csprojAssemblyReference.cache
+C:\Users\tamer\Desktop\FacadeSingletonCombination\FacadeSingletonCombination\obj\Debug\FacadeSingletonCombination.csproj.CoreCompileInputs.cache
+C:\Users\tamer\Desktop\FacadeSingletonCombination\FacadeSingletonCombination\bin\Debug\FacadeSingletonCombination.exe.config
+C:\Users\tamer\Desktop\FacadeSingletonCombination\FacadeSingletonCombination\bin\Debug\FacadeSingletonCombination.exe
+C:\Users\tamer\Desktop\FacadeSingletonCombination\FacadeSingletonCombination\bin\Debug\FacadeSingletonCombination.pdb
+C:\Users\tamer\Desktop\FacadeSingletonCombination\FacadeSingletonCombination\obj\Debug\FacadeSingletonCombination.exe
+C:\Users\tamer\Desktop\FacadeSingletonCombination\FacadeSingletonCombination\obj\Debug\FacadeSingletonCombination.pdb
